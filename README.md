@@ -43,6 +43,8 @@
     * [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
     * [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
     * [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+    * [VS Code Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
+    * [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
   * [Node.js](https://nodejs.org/en/)
   * [Homebrew](https://brew.sh/)
   * [Ngrok](https://ngrok.com/)
