@@ -10,8 +10,8 @@
   
 ## Extra Applications
 
-  * Adobe InDesign (torrented)
-  * Adobe Lightroom (torrented)
+  * Adobe InDesign
+  * Adobe Lightroom
   * AVG Antivirus
   * CLion
   * CMake
