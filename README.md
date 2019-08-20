@@ -25,6 +25,8 @@
   * [Docker Desktop for Mac](https://hub.docker.com/?overlay=onboarding)
   * [OneNote](https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12)
   * [Giphy Capture](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12)
+  * [Zoom](https://zoom.us/)
+  * [Steam](https://store.steampowered.com/)
   
 ## Extensions
 
@@ -48,4 +50,5 @@
   * [Node.js](https://nodejs.org/en/)
   * [Homebrew](https://brew.sh/)
   * [Ngrok](https://ngrok.com/)
+  * [Postman](https://www.getpostman.com/products)
   
