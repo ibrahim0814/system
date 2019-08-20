@@ -25,7 +25,6 @@
   * [Docker Desktop for Mac](https://hub.docker.com/?overlay=onboarding)
   * [OneNote](https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12)
   * [Giphy Capture](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12)
-  * []()
   
 ## Extensions
 
