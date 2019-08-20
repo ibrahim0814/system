@@ -43,4 +43,7 @@
     * [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
     * [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
     * [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+  * [Ngrok](https://ngrok.com/)
+  * [Node.js](https://nodejs.org/en/)
+  * [Homebrew](https://brew.sh/)
   
