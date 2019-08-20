@@ -23,6 +23,7 @@
   * Microsoft Office Suite - Word, Excel, Ppt
   * [Google Backup and Sync](https://photos.google.com/apps)
   * [Docker Desktop for Mac](https://hub.docker.com/?overlay=onboarding)
+  * [OneNote](https://apps.apple.com/us/app/microsoft-onenote/id784801555?mt=12)
   
 ## Extensions
 
