@@ -3,7 +3,6 @@
 
 ## Applications (must have)
 
-  * [Docker Desktop for Mac](https://hub.docker.com/?overlay=onboarding)
   * [Chrome](https://www.google.com/chrome/)
   * [Spotify](https://www.spotify.com/us/download/mac/)
   * [Slack for Desktop](https://slack.com/intl/en-in/downloads/mac)
@@ -23,6 +22,7 @@
   * [Firefox](https://www.mozilla.org/en-US/firefox/)
   * Microsoft Office Suite - Word, Excel, Ppt
   * [Google Backup and Sync](https://photos.google.com/apps)
+  * [Docker Desktop for Mac](https://hub.docker.com/?overlay=onboarding)
   
 ## Extensions
 
