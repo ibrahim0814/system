@@ -1,24 +1,28 @@
-# System Ib
+# System(Ib)
 ### Settings and programs for my Macbook
 
-## Applications
+## Applications (must have)
+
+  * [Docker Desktop for Mac](https://hub.docker.com/?overlay=onboarding)
+  * [Chrome](https://www.google.com/chrome/)
+  * [Spotify](https://www.spotify.com/us/download/mac/)
+  * [Slack for Desktop](https://slack.com/intl/en-in/downloads/mac)
+  * [VS Code](https://code.visualstudio.com/)
+  
+## Extra Applications
 
   * Adobe InDesign (torrented)
   * Adobe Lightroom (torrented)
   * AVG Antivirus
-  * [BitTorrent Free](https://www.bittorrent.com/bittorrent-free)
   * CLion
   * CMake
+  * [BitTorrent Free](https://www.bittorrent.com/bittorrent-free)
   * [DaisyDisk](https://daisydiskapp.com/)
-  * [Docker Desktop for Mac](https://hub.docker.com/?overlay=onboarding)
-  * [Discord]()
-  * [Evernote]()
-  * [Firefox]()
-  * [Chrome]()
-  * [Google Photos Backup]()
+  * [Discord](https://discordapp.com/)
+  * [Evernote](https://evernote.com/)
+  * [Firefox](https://www.mozilla.org/en-US/firefox/)
   * Microsoft Office Suite - Word, Excel, Ppt
-  * 
-  
+  * [Google Backup and Sync](https://photos.google.com/apps)
   
 ## Extensions
 
@@ -26,5 +30,5 @@
   * [RescueTime](https://www.rescuetime.com/)
   * [Itsycal](https://www.mowglii.com/itsycal/)
   * [Flux](https://justgetflux.com/)
-  * [Spectacle]()
+  * [Spectacle](https://www.spectacleapp.com/)
   
