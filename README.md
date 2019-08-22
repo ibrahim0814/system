@@ -28,6 +28,7 @@
   * [Zoom](https://zoom.us/)
   * [Steam](https://store.steampowered.com/)
   * [VirtualBox](https://www.virtualbox.org/)
+  * [Skype](https://www.skype.com/en/get-skype/download-skype-for-desktop/)
   
 ## Extensions
 
