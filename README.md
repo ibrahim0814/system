@@ -27,6 +27,7 @@
   * [Giphy Capture](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12)
   * [Zoom](https://zoom.us/)
   * [Steam](https://store.steampowered.com/)
+  * [VirtualBox](https://www.virtualbox.org/)
   
 ## Extensions
 
