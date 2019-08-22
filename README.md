@@ -29,6 +29,7 @@
   * [Steam](https://store.steampowered.com/)
   * [VirtualBox](https://www.virtualbox.org/)
   * [Skype](https://www.skype.com/en/get-skype/download-skype-for-desktop/)
+  * [AppTrap](https://www.macupdate.com/app/mac/25323/apptrap)
   
 ## Extensions
 
