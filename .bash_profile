@@ -1,4 +1,5 @@
 export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+export GPG_TTY=$(tty)
 
 #Fun
 alias hello='echo "Welcome Ib!"'
