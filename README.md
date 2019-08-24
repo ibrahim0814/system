@@ -41,6 +41,7 @@
   
 ## Development
 
+  * [Git](https://git-scm.com/downloads)
   * VS Code Extentions
     * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
     * [ES Lint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
@@ -54,4 +55,5 @@
   * [Homebrew](https://brew.sh/)
   * [Ngrok](https://ngrok.com/)
   * [Postman](https://www.getpostman.com/products)
+  
   
