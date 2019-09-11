@@ -55,5 +55,6 @@
   * [Homebrew](https://brew.sh/)
   * [Ngrok](https://ngrok.com/)
   * [Postman](https://www.getpostman.com/products)
+  * [Bower](https://bower.io/)
   
   
