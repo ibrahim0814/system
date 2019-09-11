@@ -59,6 +59,15 @@
 ## Codecov
   * [Bower](https://bower.io/)
   * [Python 3](https://www.python.org/downloads/)
-  * [Pip](https://pip.pypa.io/en/stable/installing/)
+  * Pip
+   ```
+   curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+   python get-pip.py
+   ```
+  * Virtualenv
+   ```
+   pip install virtualenv
+   ```
+    
   
   
