@@ -58,6 +58,7 @@
   
 ## Codecov
   * [Bower](https://bower.io/)
+  * [Python 3](https://www.python.org/downloads/)
   * [Pip](https://pip.pypa.io/en/stable/installing/)
   
   
