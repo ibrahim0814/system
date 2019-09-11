@@ -55,6 +55,9 @@
   * [Homebrew](https://brew.sh/)
   * [Ngrok](https://ngrok.com/)
   * [Postman](https://www.getpostman.com/products)
+  
+## Codecov
   * [Bower](https://bower.io/)
+  * [Pip](https://pip.pypa.io/en/stable/installing/)
   
   
