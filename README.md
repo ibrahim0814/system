@@ -68,6 +68,10 @@
    ```
    pip install virtualenv
    ```
+  * Grunt
+  ```
+  npm install -g grunt-cli
+  ```
     
   
   
