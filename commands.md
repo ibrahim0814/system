@@ -58,3 +58,9 @@ git config --global commit.gpgsign true
 gpg --list-secret-keys --keyid-format LONG
 git config --global user.signingkey <your key>
 ```
+
+### Audio balance bug fix
+
+```
+brew cask install ballast
+```
